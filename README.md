@@ -32,12 +32,6 @@
 - GPIO, PWM, I2C, SPI
 - Tinkercad,WOkwi & real hardware prototyping
 
-### ☁️ Cloud & DevOps
-- AWS EC2 (basic deployment)
-- Git & GitHub
-- Linux (Ubuntu)
-- CI/CD fundamentals
-
 ### 🗄️ Databases
 - SQLite
 - PostgreSQL 
