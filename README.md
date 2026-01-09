@@ -60,11 +60,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bmuhammadam1n&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmuhammadam1n&layout=compact)
-
----
 
 ⭐ *This profile reflects my technical learning journey across software, cloud, and embedded systems.*
